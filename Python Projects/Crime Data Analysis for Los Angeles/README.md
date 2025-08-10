@@ -35,6 +35,21 @@ The dataset consists of the following columns:
 - `Weapon Desc`: Description of the weapon used (if applicable)
 - `Status Desc`: Crime status (e.g., under investigation)
 - `LOCATION`: Geographic location of the crime
+### Geographic Crime Distribution
+![Crime Frequency By Area](Crime%20Frequency%20By%20Area.png)
+*Crime distribution across different LAPD patrol areas showing hotspots*
+
+### Temporal Crime Patterns  
+![Crime Frequency by Hour Of Day](Crime%20Frequency%20by%20Hour%20Of%20Day.png)
+*Hourly crime patterns revealing peak crime times for optimal patrol scheduling*
+
+### Victim Demographics Analysis
+![Victim Sex Distribution](Victim%20Sex%20Distribution%20piechart.png)
+*Distribution of crime victims by gender providing insights for targeted programs*
+
+### Additional Analysis
+![Download](download.png)
+*Supporting visualization for comprehensive crime data analysis*
 
 ## Installation Instructions
 
