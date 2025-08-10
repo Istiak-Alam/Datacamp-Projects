@@ -71,7 +71,7 @@ This project analyzes direct marketing campaigns conducted by a Portuguese bank,
 
 ## Links
 
-- [Project Repository](https://github.com/Istiak-Alam/Datacamp-Projects/tree/main/Python%20Projects/Bank%20Marketing%20Campaign%20Data%20Analysis)
+- [Project File](https://github.com/Istiak-Alam/Datacamp-Projects/blob/main/Python%20Projects/Bank%20Marketing%20Campaign%20Data%20Analysis/notebook.ipynb)
 - [Full Report (PDF)](https://github.com/Istiak-Alam/Datacamp-Projects/blob/main/Python%20Projects/Bank%20Marketing%20Campaign%20Data%20Analysis/Bank%20Marketing%20Campaign%20Data%20Analysis.pdf)
 
 ---
@@ -87,5 +87,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 Dataset from UCI Machine Learning Repository; analysis and code by [Your Name].
 
 ---
+
 
 
