@@ -86,4 +86,4 @@ numpy
 
 This project is licensed under the MIT License.
 
-## [Project Link] ([Python Projects/Crime Data Analysis for Los Angeles/notebook.ipynb](https://github.com/Istiak-Alam/Datacamp-Projects/blob/main/Python%20Projects/Crime%20Data%20Analysis%20for%20Los%20Angeles/notebook.ipynb))
+## [Project Link] (https://github.com/Istiak-Alam/Datacamp-Projects/blob/main/Python%20Projects/Crime%20Data%20Analysis%20for%20Los%20Angeles/notebook.ipynb)
