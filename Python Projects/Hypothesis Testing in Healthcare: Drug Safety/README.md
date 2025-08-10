@@ -76,6 +76,7 @@ Provided file: `drug_safety.csv`
 
 - [DataCamp Project Notebook](https://www.datacamp.com/datalab/w/410845a4-fda8-4c9d-a57a-9992a3b260a9/edit)
 - [Dataset Source](https://hbiostat.org/data/)
+- [Project Link](https://github.com/Istiak-Alam/Datacamp-Projects/blob/main/Python%20Projects/Hypothesis%20Testing%20in%20Healthcare%3A%20Drug%20Safety/notebook.ipynb)
 
 ---
 
@@ -88,6 +89,7 @@ This project is released under the MIT License.
 ## Acknowledgements
 
 - Dataset adapted from Vanderbilt University Department of Biostatistics ([Hbiostat](https://hbiostat.org/data/))
-- Analysis and reporting by [Your Name]
+- Analysis and reporting by [ISTIAK ALAM]
 
 ---
+
