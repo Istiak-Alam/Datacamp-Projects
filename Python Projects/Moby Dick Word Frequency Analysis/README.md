@@ -49,6 +49,7 @@ This project programmatically retrieves and analyzes Herman Melville's "Moby Dic
 
 - [Project Gutenberg - Moby Dick](https://www.gutenberg.org/files/2701/2701-h/2701-h.htm)
 - [Full Code & Notebook](https://github.com/Istiak-Alam/Datacamp-Projects/blob/main/Python%20Projects/Moby%20Dick%20Word%20Frequency%20Analysis/notebook.ipynb)
+- [Project Report](https://github.com/Istiak-Alam/Datacamp-Projects/blob/main/Python%20Projects/Moby%20Dick%20Word%20Frequency%20Analysis/Moby%20Dick%20Word%20Frequency%20Analysis.pdf)
 
 ---
 
@@ -63,4 +64,5 @@ This project is licensed under the MIT License.
 Text from Project Gutenberg; code by [ISTIAK ALAM].
 
 ---
+
 
