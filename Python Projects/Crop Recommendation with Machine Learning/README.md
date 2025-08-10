@@ -74,8 +74,9 @@ This project predicts the optimal crop to sow on a given field, using a machine 
 
 ## Links
 
-- [Full Report (PDF)](link_to_pdf_report) <!-- Update this link with your PDF report if published online -->
-- [Source Notebook](link_to_github_notebook) <!-- Update with your actual repository/notebook link -->
+- [Full Report (PDF)](https://github.com/Istiak-Alam/Datacamp-Projects/blob/main/Python%20Projects/Crop%20Recommendation%20with%20Machine%20Learning/Crop%20Selection%20with%20Machine%20Learning%20%E2%80%93%20Project%20Rep.pdf)
+- [Source Notebook]((https://github.com/Istiak-Alam/Datacamp-Projects/blob/main/Python%20Projects/Crop%20Recommendation%20with%20Machine%20Learning/notebook.ipynb)
+- [My Datacamp Project](https://www.datacamp.com/datalab/w/a6979821-4f32-48eb-ac58-2d4a0d9e969f/edit)
 
 ---
 
@@ -87,6 +88,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 
-Data and project template based on the DataCamp Machine Learning soil crop project. Analysis and code by [Your Name].
+Data and project template based on the DataCamp Machine Learning soil crop project. Analysis and code by [ISTIAK ALAM].
 
 ---
+
