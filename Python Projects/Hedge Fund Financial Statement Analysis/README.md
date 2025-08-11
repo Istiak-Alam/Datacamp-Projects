@@ -114,6 +114,7 @@ This project delivers an end-to-end analysis of multi-year financial statements 
 ## 📝 Conclusion
 
 This portfolio project demonstrates SQL/Excel data handling, analytic feature engineering, cross-sectional and time-series benchmarking, and impactful financial storytelling through code and visuals.  
-Ideal for hedge funds and analytics roles, it showcases both technical skill and business insight—directly accessible for recruiter and manager review.
+
+
 
 
