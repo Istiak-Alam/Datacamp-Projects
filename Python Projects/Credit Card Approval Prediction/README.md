@@ -83,4 +83,5 @@ Below are key plots that support model interpretation and business insight (auto
 ## 📝 Conclusion
 
 This project demonstrates production-quality data cleaning, robust feature engineering, and end-to-end predictive modeling, capped by business-driven visual analytics—essential for roles focused on fintech, financial analytics, or risk data science.  
-**Recruiters and reviewers:** Please examine the notebook and report for full model logic, clear visualizations, and concise technical communication.
+
+
