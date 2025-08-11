@@ -37,10 +37,10 @@ This project builds a machine learning pipeline to predict whether a book will b
 ## 📊 Visual Highlights
 - **Price Distribution By Popularity**
   - Shows how price varies between Popular vs. Unpopular titles, informing pricing and promotion strategies.
+  - ![Price Distribution By Popularity](Price%20Distribution%20By%20Popularity.png)
 - **Correlation Heatmap**
   - Highlights relationships among engineered numeric features (e.g., price, helpfulness) and target, guiding feature selection and interpretation.
-  - ![Price Distribution By Popularity](Price%20Distribution%20By%20Popularity.png)
-  - ![Correlation Heatmap](Correlation%20heatmap.png)
+ - ![Correlation Heatmap](Correlation%20heatmap.png)
 ---
 
 ## 📈 Results & Insights
@@ -78,4 +78,5 @@ This project builds a machine learning pipeline to predict whether a book will b
 
 ## 📝 Notes
 - All analysis and visuals are reproducible from the notebook using the project’s data.
+
 
