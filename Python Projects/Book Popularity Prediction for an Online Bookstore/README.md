@@ -13,9 +13,6 @@ This project builds a machine learning pipeline to predict whether a book will b
 ## 📄 Project Files and Links
 - **Project Notebook:** [`notebook.ipynb`](notebook.ipynb)
 - **Technical Report:** [`Book Popularity Prediction for an Online Bookstore.pdf`](Book%20Popularity%20Prediction%20for%20an%20Online%20Bookstore.pdf)
-- **Key Visualizations:**
-  - ![Price Distribution By Popularity](Price%20Distribution%20By%20Popularity.png)
-  - ![Correlation Heatmap](Correlation%20heatmap.png)
 - **DataCamp Project:** [Open in DataCamp](https://www.datacamp.com/datalab/w/3d3b3255-4687-4765-9f36-eb36064ac2a6/edit)
 - **DataCamp Portfolio:** [istiak-data-analyst Portfolio](https://www.datacamp.com/portfolio/istiak-data-analyst)
 
@@ -42,7 +39,8 @@ This project builds a machine learning pipeline to predict whether a book will b
   - Shows how price varies between Popular vs. Unpopular titles, informing pricing and promotion strategies.
 - **Correlation Heatmap**
   - Highlights relationships among engineered numeric features (e.g., price, helpfulness) and target, guiding feature selection and interpretation.
-
+  - ![Price Distribution By Popularity](Price%20Distribution%20By%20Popularity.png)
+  - ![Correlation Heatmap](Correlation%20heatmap.png)
 ---
 
 ## 📈 Results & Insights
@@ -80,3 +78,4 @@ This project builds a machine learning pipeline to predict whether a book will b
 
 ## 📝 Notes
 - All analysis and visuals are reproducible from the notebook using the project’s data.
+
