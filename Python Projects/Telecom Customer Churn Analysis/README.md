@@ -15,7 +15,7 @@ This project analyzes customer churn across major Indian telecom providers by co
 
 - **Project Notebook:** [`notebook.ipynb`](notebook.ipynb)
 - **Technical Report:** [`Telecom Customer Churn Analysis.pdf`](Telecom%20Customer%20Churn%20Analysis.pdf)
-- **Key Visualization:** `Churn Rate.png`
+- **Key Visualization:** ![Churn Rate](Churn%20Rate.png)
 - **DataCamp Project:** [Open in DataCamp](https://www.datacamp.com/datalab/w/b2603667-23df-461a-9613-71968c33b4ec/edit)
 - **DataCamp Portfolio:** [istiak-data-analyst Portfolio](https://www.datacamp.com/portfolio/istiak-data-analyst)
 
@@ -78,4 +78,5 @@ text
 
 
 - All analyses and visuals are derived from the project’s provided datasets and code.  
+
 
