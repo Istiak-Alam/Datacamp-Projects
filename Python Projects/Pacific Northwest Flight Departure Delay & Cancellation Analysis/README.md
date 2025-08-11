@@ -15,10 +15,6 @@ This project examines flight departure delays and cancellations from Seattle-Tac
 
 - **Project Notebook:** [`notebook.ipynb`](notebook.ipynb)
 - **Technical Report:** [`Pacific Northwest Flight Departure Delay & Cancellation Analysis.pdf`](Pacific%20Northwest%20Flight%20Departure%20Delay%20%26%20Cancellation%20Analysis.pdf)
-- **Key Visualizations:**
-    - ![Project Cover Photo](IMG_8801.JPG)
-    - ![Mean Departure Delay by Route](Mean%20Departure%20Delay%20by%20Route.png)
-    - ![Weather Impact (Scatterplot)](Weather%20Impact%20%28Scatterplot%29.png)
 - **DataCamp Project:** [View on DataCamp](https://www.datacamp.com/datalab/w/263fb78e-b69b-48c2-a832-e821e785fabf/edit)
 - **DataCamp Portfolio:** [istiak-data-analyst Portfolio](https://www.datacamp.com/portfolio/istiak-data-analyst)
 
@@ -80,5 +76,6 @@ This project examines flight departure delays and cancellations from Seattle-Tac
 ---
 
 ## 📝 Conclusion
+
 
 This analysis demonstrates robust airline/airport data wrangling and business insight, blending extensive Python analytics with clean reporting and stakeholder-focused recommendations.  
