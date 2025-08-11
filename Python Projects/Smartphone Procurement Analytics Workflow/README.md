@@ -98,4 +98,4 @@ text
 ## 📝 Conclusion
 
 This project proves hands-on skill in building clean, reliable, and business-focused analytics systems—perfect for real-world procurement, BI, or management analytics roles.  
-**Recruiters and reviewers:** Please explore the notebook and report for full technical detail, tested code, and modern business communication.
+
