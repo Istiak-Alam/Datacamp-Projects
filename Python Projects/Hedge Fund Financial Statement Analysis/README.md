@@ -99,14 +99,15 @@ This project delivers an end-to-end analysis of multi-year financial statements 
 ## 📂 Repository Structure
 
 ├── Hedge Fund Financial Statement Analysis.pdf
-  ├── notebook.ipynb
-    ├── Total Revenue over Years by Sector.png
-    ├── Operating Income by Company and Year.png
-    ├── Correlation Heatmap.png
-    ├── Gross Profit Distribution by Sector.png
-    ├── Operating Income vs Total Revenue by Sector and Year.png
-  ├── README.md
-  └── data/
+├── notebook.ipynb
+├── Total Revenue over Years by Sector.png
+├── Operating Income by Company and Year.png
+├── Correlation Heatmap.png
+├── Gross Profit Distribution by Sector.png
+├── Operating Income vs Total Revenue by Sector and Year.png
+├── README.md
+└── data/
+
 
 ---
 
@@ -114,4 +115,5 @@ This project delivers an end-to-end analysis of multi-year financial statements 
 
 This portfolio project demonstrates SQL/Excel data handling, analytic feature engineering, cross-sectional and time-series benchmarking, and impactful financial storytelling through code and visuals.  
 Ideal for hedge funds and analytics roles, it showcases both technical skill and business insight—directly accessible for recruiter and manager review.
+
 
