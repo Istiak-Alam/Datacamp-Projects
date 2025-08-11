@@ -42,7 +42,7 @@ This project analyzes customer churn across major Indian telecom providers by co
 
 ## 📊 Key Insight (Example)
 
-- The chart “Churn Rate (%) by Telecom Partner.png” highlights which providers experience higher churn, directing where targeted retention efforts may yield the greatest impact.
+- The chart []/Churn%20Rate.png highlights which providers experience higher churn, directing where targeted retention efforts may yield the greatest impact.
 
 ---
 
@@ -78,3 +78,4 @@ text
 
 
 - All analyses and visuals are derived from the project’s provided datasets and code.  
+
