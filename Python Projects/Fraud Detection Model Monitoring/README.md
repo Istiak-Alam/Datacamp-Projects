@@ -38,7 +38,6 @@ To install dependencies:
 
 pip install pandas numpy matplotlib nannyml scikit-learn jupyter
 
-text
 
 ### Running the Analysis
 
@@ -46,7 +45,7 @@ Open and run all cells in the main notebook:
 
 jupyter notebook notebook.ipynb
 
-text
+
 
 All outputs and plots will be generated in the notebook or as PNG files.
 
@@ -77,7 +76,7 @@ DataLab plot (1).png
 Fraud Detection Model.pdf
 README.md # This file
 
-text
+
 
 ## Business & Technical Value
 
@@ -93,5 +92,6 @@ Please refer to the full PDF report or execute the notebook for detailed finding
 MIT
 
 ## Author & Contact
+
 
 - [Istiak (Data Analyst)](https://www.datacamp.com/portfolio/istiak-data-analyst)
