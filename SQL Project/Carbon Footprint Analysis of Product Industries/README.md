@@ -1,6 +1,6 @@
 # 🌱 Carbon Footprint Analysis of Product Industries
 
-![Carbon Footprint Analysis](https://cdn-icons-png.flaticon.com/512/2903/2903461.png) <!-- Replace with your own project screenshot or relevant image -->
+![Carbon Footprint Analysis](pollution.jpg) <!-- Replace with your own project screenshot or relevant image -->
 
 [![DataCamp Project](https://img.shields.io/badge/DataCamp-Project-blue?logo=datacamp&logoColor=white)](https://www.datacamp.com/datalab/w/3dcff19d-eb2c-4951-80f7-a5ac08c37141/edit)
 [![PDF Report](https://img.shields.io/badge/Report-PDF-orange?logo=adobeacrobatreader&logoColor=white)](Carbon%20Footprint%20Analysis%20of%20Product%20Industries.pdf)
@@ -86,3 +86,4 @@ For questions or collaboration opportunities:
 ---
 
 *Thank you for exploring my carbon footprint analysis! Feedback is welcome.*
+
