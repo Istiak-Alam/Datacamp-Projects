@@ -81,9 +81,10 @@ Explore more of my projects and certifications:
 
 ## 📧 Contact
 For questions or collaboration opportunities:  
-📩 Connect via my [DataCamp portfolio](https://www.datacamp.com/portfolio/istiak-data-analyst) or LinkedIn.
+📩 Connect via my [DataCamp portfolio](https://www.datacamp.com/portfolio/istiak-data-analyst) or [LinkedIn](https://www.linkedin.com/in/istiak-data-analyst/).
 
 ---
 
 *Thank you for exploring my carbon footprint analysis! Feedback is welcome.*
+
 
