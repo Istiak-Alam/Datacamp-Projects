@@ -1,4 +1,4 @@
-# 🇺🇸 American Baby Names: A Century of Popularity Trends
+# American Baby Names: A Century of Popularity Trends
 
 ![Baby Names Illustration](baby_names.jpg)
 
@@ -90,3 +90,4 @@ Questions, collaboration, or feedback:
 ---
 
 *Thank you for reviewing my American Baby Names analysis!*
+
