@@ -84,9 +84,10 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgements
 
-Dataset from UCI Machine Learning Repository; analysis and code by [Your Name].
+Dataset from UCI Machine Learning Repository; analysis and code by ISTIAK ALAM.
 
 ---
+
 
 
 
