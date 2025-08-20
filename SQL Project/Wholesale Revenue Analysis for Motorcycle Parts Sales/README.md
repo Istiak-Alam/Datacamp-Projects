@@ -1,6 +1,5 @@
 # Wholesale Revenue Analysis for Motorcycle Parts Sales
 
-![Order Analysis Dashboard](./screenshots/dashboard_overview.png) <!-- Replace or add your main dashboard/query output image here for instant visual impact -->
 
 ## 📌 Overview
 This project demonstrates practical SQL data analysis within a Jupyter (DataCamp Datalab) notebook, using the `sales.orders` table from a realistic transactional database.  
@@ -19,10 +18,6 @@ It showcases:
 - **🌐 Portfolio:** [Istiak – Data Analyst](https://www.datacamp.com/portfolio/istiak-data-analyst)
 
 ---
-
-## 📊 Dataset Overview
-
-![Schema ER Diagram](./screenshots/orders_schema.png) <!-- Paste or create an ER diagram image to visualize table relationships -->
 
 **Primary Table:** `sales.orders`
 
@@ -106,3 +101,4 @@ MIT License
 ## 👤 Author
 **Istiak — Data Analyst**  
 [DataCamp Portfolio](https://www.datacamp.com/portfolio/istiak-data-analyst) | [Project Link](https://www.datacamp.com/datalab/w/c8123da9-50af-402d-8e65-55e0cf7d0830/edit)
+
