@@ -13,7 +13,7 @@ It showcases:
 
 ## 🔗 Project Links
 - **📓 View SQL Notebook:** [notebook.ipynb](./notebook.ipynb)
-- **📄 Read Full Project Report:** [SQL Orders Database Project.pdf](./SQL%20Orders%20Database%20Project.pdf)
+- **📄 Read Full Project Report:** [SQL Orders Database Project.pdf](https://github.com/Istiak-Alam/Datacamp-Projects/blob/main/SQL%20Project/Wholesale%20Revenue%20Analysis%20for%20Motorcycle%20Parts%20Sales/Wholesale%20Revenue%20Analysis%20for%20Motorcycle%20Parts%20Sales.pdf)
 - **💻 View on DataCamp:** [SQL Orders Database Project – Datalab](https://www.datacamp.com/datalab/w/c8123da9-50af-402d-8e65-55e0cf7d0830/edit)
 - **🌐 Portfolio:** [Istiak – Data Analyst](https://www.datacamp.com/portfolio/istiak-data-analyst)
 
@@ -101,4 +101,5 @@ MIT License
 ## 👤 Author
 **Istiak — Data Analyst**  
 [DataCamp Portfolio](https://www.datacamp.com/portfolio/istiak-data-analyst) | [Project Link](https://www.datacamp.com/datalab/w/c8123da9-50af-402d-8e65-55e0cf7d0830/edit)
+
 
