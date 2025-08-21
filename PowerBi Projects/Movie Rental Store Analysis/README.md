@@ -65,8 +65,8 @@ Explore the insights gained from this project in detail:
 
 Let's connect on LinkedIn for further discussions and collaborations:
 
-**![LinkedIn](https://www.linkedin.com/in/istiak-data-analyst/)**
-
+** [LinkedIn](https://www.linkedin.com/in/istiak-data-analyst/)**
+ 
 
 ---
 
