@@ -7,8 +7,7 @@ Adventure Works is a large, multinational manufacturing company specializing in 
 ---
 
 ## Live Dashboard
-
-👉 [View the Live Cohort & Performance Dashboard](#)  
+ 
 *(Portfolio demo access – contact istiak36@gmail.com if private.)*
 
 📄 [Download Full Report: Cohort & Performance Dashboard.pdf](./Cohort%20&%20Performance%20Dashboard.pdf)
@@ -113,3 +112,4 @@ This Power BI dashboard delivers actionable insights from AdventureWorks' Intern
 - Published to Power BI Service for secure access; report and images used in leadership briefings and business case portfolios.
 
 ---
+
