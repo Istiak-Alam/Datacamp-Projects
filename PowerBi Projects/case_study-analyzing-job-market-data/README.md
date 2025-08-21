@@ -16,7 +16,8 @@ This interactive Power BI dashboard examines the data science job market (2017â€
 ---
 
 ## Dashboard Preview
-
+ ![**View Project Report**](Analyze%20Job%20Market%20Data.pdf)
+ ![**View Live Project** ](https://app.powerbi.com/view?r=eyJrIjoiZTlmZDY5NzUtY2Q5MS00MTQ1LWJhMzUtN2ZhNThjYWVmZTk4IiwidCI6IjZhODgzMmRjLTUxNGQtNDAzZS05NmVlLWU1YWY4NzVlY2VjNiIsImMiOjZ9&pageName=ReportSection62b51ed96d37b5180c00)
 **Landing Page:**  
 *Choose to explore by Jobs, Skills, or Company.*
 
@@ -139,6 +140,7 @@ This interactive Power BI dashboard examines the data science job market (2017â€
 
 ---
 *Last updated: August 2025 | For questions, contact me via [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/) or through my [portfolio website](https://istiak-alam.github.io/).*
+
 
 
 
