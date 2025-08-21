@@ -53,7 +53,7 @@ This interactive Power BI dashboard examines the data science job market (2017â€
 
 **Salary vs. Experience by Title:**
 
-![Salary and Experience Analysis](Salary%20Analysis.jpeg)
+![Salary and Experience Analysis](Salary%20Analysis.PNG)
 
 ---
 
@@ -139,6 +139,7 @@ This interactive Power BI dashboard examines the data science job market (2017â€
 
 ---
 *Last updated: August 2025 | For questions, contact me via [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/) or through my [portfolio website](https://istiak-alam.github.io/).*
+
 
 
 
