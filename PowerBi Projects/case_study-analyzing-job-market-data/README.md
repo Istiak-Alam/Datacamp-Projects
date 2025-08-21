@@ -37,7 +37,7 @@ This interactive Power BI dashboard examines the data science job market (2017â€
 
 **Top Job Titles & Key Skills (Treemap):**
 
-![Job Skill Treemap](Job Titles.PNG)
+![Job Skill Treemap](Job%20Titles.PNG)
 
 **Jobs Overview & Trends:**
 
@@ -45,7 +45,7 @@ This interactive Power BI dashboard examines the data science job market (2017â€
 
 **Experience Requirement by Job Level:**
 
-![Experience Analysis](Experiance Analysis.PNG)
+![Experience Analysis](Experiance%20Analysis.PNG)
 
 ---
 
@@ -53,7 +53,7 @@ This interactive Power BI dashboard examines the data science job market (2017â€
 
 **Salary vs. Experience by Title:**
 
-![Salary and Experience Analysis](Salary Analysis.jpeg)
+![Salary and Experience Analysis](Salary%20Analysis.jpeg)
 
 ---
 
@@ -61,15 +61,15 @@ This interactive Power BI dashboard examines the data science job market (2017â€
 
 **Skill Frequency by Title (Treemap):**
 
-![Skill Treemap](Skill Analysis.PNG)
+![Skill Treemap](Skill%20Analysis.PNG)
 
 **Skill Rankings and Prevalence:**
 
-![Skill Ranking Bar Chart](Skill Analysis.PNG)
+![Skill Ranking Bar Chart](Skill%20Analysis.PNG)
 
 **Skill Trends Over Time:**
 
-![Skill Likelihood Over Time](Skill Likelihood.PNG)
+![Skill Likelihood Over Time](Skill%20Likelihood.PNG)
 
 **Skill Comparison Table Across Roles:**
 
@@ -139,5 +139,6 @@ This interactive Power BI dashboard examines the data science job market (2017â€
 
 ---
 *Last updated: August 2025 | For questions, contact me via [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/) or through my [portfolio website](https://istiak-alam.github.io/).*
+
 
 
